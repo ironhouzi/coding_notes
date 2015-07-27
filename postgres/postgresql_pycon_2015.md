@@ -70,6 +70,7 @@ log_temp_files = 0          # log every temp file
 ### Memory configuration
 
 #### `shared_buffers`
+If you have system memory ..
 
 * Below 2GB, set to 20% of total system memory.
 * Below 32GB, set to 25% of total system memory.
