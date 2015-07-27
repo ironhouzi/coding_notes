@@ -15,10 +15,6 @@ Notes taken for the Pycon 2015 talk: "PostgreSQL Proficiency for Python People",
 * initdb option (-k)
 * Default is "off"!
 
-### `pg_ctl`
-
-* wrapper for starting postgres.
-
 ### Stopping PostgreSQL
 
 * Three modes: smart, fast, immediate.
